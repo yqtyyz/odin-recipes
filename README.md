@@ -1,1 +1,1 @@
-This website is a project which is designed to showcase the HTML knowledge that I have acquired to date. It is a basic recipe website consisting of a main index page with a few links to recipes.
+This website is a project which is designed to showcase the HTML knowledge that I have acquired to date. It is a basic website that I will use when I start my own legal practice.
